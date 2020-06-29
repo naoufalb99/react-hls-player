@@ -1,1 +1,1 @@
-"# React HLS player" 
+# React HLS player
